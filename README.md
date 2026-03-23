@@ -48,7 +48,7 @@ ecommerce-data-analysis/
 ├── visuals/     # generated plots
 ├── report/      # analysis write-up
 └── README.md
-
+```
 ---
 
 ## Visualizations
