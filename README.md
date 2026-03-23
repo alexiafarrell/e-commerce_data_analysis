@@ -42,13 +42,11 @@ The dataset contains transaction-level records including product descriptions, q
 ## Project Structure
 
 ecommerce-data-analysis/
-│
-├── data/           # contains .csv database file
-├── scripts/        # contains R script
-├── visuals/        # plots generated
-├── report/         # analysis of data parsed
+├── data/        # CSV dataset
+├── scripts/     # R scripts
+├── visuals/     # generated plots
+├── report/      # analysis write-up
 └── README.md
-
 
 ---
 
